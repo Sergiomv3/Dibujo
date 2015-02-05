@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dibujo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="pickColor">Selecciona un color</string>
+    <string name="brush">PINCEL</string>
+    <string name="guardar">GUARDAR</string>
+
+
+    <string name="circulo">Circulo</string>
+    <string name="rectangulo">Rectángulo</string>
+    <string name="triangulo">Obtener PRO</string>
+
+    <string name="tituloDialogo">GROSOR</string>
+    <string name="btCerrarDialogo">Aceptar</string>
+
+    <string name="errorGuardar">ERROR AL GUARDAR</string>
+    <string name="versionPRO">Versión PRO en desarrollo...</string>
+
+
+
+</resources>
